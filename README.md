@@ -42,8 +42,8 @@ feature:
 </table>
 
 ### 📁 Assignment Repository: 
-- <a href="https://github.com/Lobi29/testBackend">🖥️ frontend<a/>
-- <a href="https://github.com/Lobi29/assignmentIntern">🖥️ backend<a/>
+- <a href="https://github.com/Lobi29/assignmentIntern">🖥️ Frontend<a/>
+- <a href="https://github.com/Lobi29/testBackend">🖥️ Backend<a/>
 
 
 ### 💻 Tech Stack:
