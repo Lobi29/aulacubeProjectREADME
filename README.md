@@ -35,6 +35,7 @@ feature:
 - Sort post in ascending or descending order
 - Bookmark a post
 - Delte a post
+- Real Time Data update [using RTK tagtypes]
 <br />
 
 </td>
